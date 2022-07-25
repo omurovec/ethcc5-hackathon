@@ -12,9 +12,9 @@ Supported features:
 
 ## The Fun Stuff
 
-Thanks to `vyperlang/titanoboa`, we created a Jupiter notebook that allows users to visualize changes in the pool and interact with it directly. No need to spin up a chain or deal with accounts, full on interpretation in python 😎
+Thanks to `vyperlang/titanoboa`, we created a [Jupiter Notebook](notebook.ipynb) that allows users to visualize changes in the pool and interact with it directly. No need to spin up a chain or deal with accounts, full on interpretation in python 😎
 
-
+<img width="780" alt="Screen Shot 2022-07-25 at 3 06 11 PM" src="https://user-images.githubusercontent.com/19395659/180861657-e1147cc3-58bf-4938-ad5e-4256c1406252.png">
 
 ## Other forked code
 
